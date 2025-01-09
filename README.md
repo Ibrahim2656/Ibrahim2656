@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I am Ibrahim, a committed Computer Science and Artificial Intelligence student passionate about machine learning, algorithms, and problem-solving. Proficient in Python, I thrive on turning theoretical concepts into practical solutions through hands-on projects. Constantly staying abreast of the latest advancements, I bring a proactive problem-solving mindset to the dynamic field of artificial intelligence. Eager to contribute and collaborate, I am poised for opportunities that fuel both personal and professional growth.</p>
+<p align="left">I am Ibrahim, a machine learning engineer with a primary focus on machine learning and an expanding interest in NLP and computer vision. With hands-on experience in data science, I’ve participated in competitive events like the ECPC qualifications, Dell Hackathon, and AI Empower Egypt. As a Kaggle Expert, I’m committed to leveraging AI for impactful solutions. You can check out my project work to see my dedication to innovation and technical growth.</p>
 
 ###
 
